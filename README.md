@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am omieri, currently working as a IT support (Total noob in coding)for various organisations, I'd like to improve my skills beginning with web dev, app dev and coding in general, I am totally committed and willing to go hard on my journey any assistance accorded to me will be greaty apreciated. Did I mention I am also a student at JKUAT? yes i did. 
+
+Ask me about networking, servers and security as these are currently my primary domains
 
 <!--
 **Omieri/omieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
